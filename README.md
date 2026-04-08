@@ -8,8 +8,6 @@ Tenho experiência com:
 
 Buscando oportunidade de estágio na área de desenvolvimento.
 
-![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquewallau&show_icons=true&theme=dracula)
-
 ## Tecnologias que estou aprendendo
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>

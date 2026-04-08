@@ -7,6 +7,7 @@ Tenho experiência com:
 - MySQL
 
 Buscando oportunidade de estágio na área de desenvolvimento.
+
 ![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquewallau&show_icons=true&theme=dracula)
 
 ## Tecnologias que estou aprendendo

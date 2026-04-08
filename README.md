@@ -12,7 +12,7 @@ Buscando oportunidade de estágio na área de desenvolvimento.
   <img align="center" alt="Henrique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Henrique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Henrique-JAVA" height="35" width="40" src="https://github.com/user-attachments/assets/22e2032e-76f1-4d50-a66c-fd2aa40c3233" />
-  <img  align="center" alt="Henrique-MYSQL" height="30" width="40" src="https://github.com/user-attachments/assets/e26c8d5a-69a1-40e5-9050-0969507949e7" />
+  <img  align="center" alt="Henrique-MYSQL" height="30" width="40" src="https://github.com/user-attachments/assets/19c38e18-2fcd-41c7-80d6-d4507de7c5d9" />
 </div>
 
 ## 

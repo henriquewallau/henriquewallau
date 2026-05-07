@@ -1,12 +1,17 @@
-## Olá! Eu sou o Henrique Wallau 👋
+## Olá! Sou o Henrique 👋  
 Estudante de Sistemas de Informação, focado em desenvolvimento back-end com Java.
 
-Tenho experiência com:
-- Java
-- JDBC
-- MySQL
+Tenho experiência prática com:
+- Java (POO)
+- JDBC e MySQL
+- Desenvolvimento de CRUD completo
+- Arquitetura em camadas (MVC/arquitetura básica)
+- Consumo de API externa
+- HTML e CSS (básico)
+- Power BI 
 
-Buscando oportunidade de estágio na área de desenvolvimento.
+Busco oportunidade de estágio na área de desenvolvimento back-end ou áreas relacionadas à TI, onde eu possa aplicar meus conhecimentos e aprender novas tecnologias conforme a necessidade.
+
 ## Tecnologias que estou aprendendo
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/>

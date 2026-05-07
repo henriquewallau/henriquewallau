@@ -1,4 +1,4 @@
-## Olá! Sou o Henrique 👋  
+## Olá! Sou o Henrique Wallau 👋  
 Estudante de Sistemas de Informação, focado em desenvolvimento back-end com Java.
 
 Tenho experiência prática com:
